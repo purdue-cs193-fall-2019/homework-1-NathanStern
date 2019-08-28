@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-# Nathan's First CS193 Homework
+# Nathan Stern's First CS193 Homework
 
  - The instructors use macs to show terminal examples
  - The class is very laid back
